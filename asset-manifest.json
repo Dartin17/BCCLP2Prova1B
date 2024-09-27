@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dartin17/BCCLP2Prova1B.git/static/css/main.d221dc40.css",
+    "main.js": "/Dartin17/BCCLP2Prova1B.git/static/js/main.1531df73.js",
+    "static/media/Eleicoes-2024.png": "/Dartin17/BCCLP2Prova1B.git/static/media/Eleicoes-2024.76d146dfa608a3c512b4.png",
+    "index.html": "/Dartin17/BCCLP2Prova1B.git/index.html",
+    "main.d221dc40.css.map": "/Dartin17/BCCLP2Prova1B.git/static/css/main.d221dc40.css.map",
+    "main.1531df73.js.map": "/Dartin17/BCCLP2Prova1B.git/static/js/main.1531df73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.1531df73.js"
+  ]
+}
